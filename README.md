@@ -15,11 +15,11 @@
 
 **Mirage**
 
-Yone carry - duelist
-Nunu carry - warlord, dawnbringer, executioner
-Frontline - electric overload, dawnbringer
+Yone carry - duelist <br />
+Nunu carry - warlord, dawnbringer, executioner <br />
+Frontline - electric overload, dawnbringer <br />
 
-Daeja - i think this champ sucks, but probably duelist, spellsword
+Daeja - i think this champ sucks, but probably duelist, spellsword <br />
 
 
 
